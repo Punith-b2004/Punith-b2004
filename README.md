@@ -97,7 +97,6 @@
 | **📊Community-Water-Watch-Platform** | React • Tailwind CSS • Node.js • MongoDB • FLask  CNN • Groq • Twilio •  | A data-driven platform to monitor and analyze community water metrics | Dec 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Community-Water-Watch-Platform-) |
 | **🤖Recruitment-Management** | React • Nextjs • Nodejs • MongoDB | A full-stack Job Portal application featuring a modern React frontend (using Vite) and a robust Express.js backend with MongoDB integration.  | Dec 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Recruitment-Management) |
 | **💼Money Tracker App** | Next.js • React • Frontend | This project is a Money Tracker App that allows users to record and track their income and expenses. The app provides a simple form to input financial data and stores it in a MongoDB database using Node.js and Express.js. | Nov 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/moneytracker-project) |
-| **⚽ Football Analytics** | YOLOv8 • OpenCV • Computer Vision | Football match analysis with player tracking and key insights extraction | Sep 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV) |
 
 </div>
 
@@ -179,9 +178,12 @@
 ---
 
 ### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Punith-b2004/Punith-b2004/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Punith-b2004/Punith-b2004/output/github-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Punith-b2004/Punith-b2004/output/github-snake.svg" />
+</picture>
+
 
 ---
 
@@ -194,7 +196,7 @@
   <a href="https://github.com/Punith-b2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:punithb2004@gmail.com">
+  <a href="mailto:puneethgowda91081@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
