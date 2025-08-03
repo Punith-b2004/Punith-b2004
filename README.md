@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Innovative+Web+Applications+%E2%9C%A8;Cleanliness+Dashboard+Creator+%F0%9F%93%8A;Computer+Science+Explorer+%F0%9F%8C%9F;Passionate+Problem+Solver+%F0%9F%92�" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Innovative+Web+Applications+%E2%9C%A8;Community+WaterWatch+Dashboard+Creator+%F0%9F%93%8A;Computer+Science+Explorer+%F0%9F%8C%9F;Passionate+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -96,7 +96,7 @@
 |------------|---------------|-----------------|---------|-----------|
 | **📊Community-Water-Watch-Platform** | React • Tailwind CSS • Node.js • MongoDB • FLask  CNN • Groq • Twilio •  | A data-driven platform to monitor and analyze community water metrics | Dec 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Community-Water-Watch-Platform-) |
 | **🤖Recruitment-Management** | React • Nextjs • Nodejs • MongoDB | A full-stack Job Portal application featuring a modern React frontend (using Vite) and a robust Express.js backend with MongoDB integration.  | Dec 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Recruitment-Management) |
-| ** Money Tracker App** | Next.js • React • Frontend | This project is a Money Tracker App that allows users to record and track their income and expenses. The app provides a simple form to input financial data and stores it in a MongoDB database using Node.js and Express.js. | Nov 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/moneytracker-project) |
+| **💼Money Tracker App** | Next.js • React • Frontend | This project is a Money Tracker App that allows users to record and track their income and expenses. The app provides a simple form to input financial data and stores it in a MongoDB database using Node.js and Express.js. | Nov 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/moneytracker-project) |
 | **⚽ Football Analytics** | YOLOv8 • OpenCV • Computer Vision | Football match analysis with player tracking and key insights extraction | Sep 2024 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Punith-b2004/Football-Analysis-using-Computer-Vision-with-Yolov8-OpenCV) |
 
 </div>
@@ -141,10 +141,26 @@
 <div align="center">
 
 ### 📚 Training & Certifications
-- **React.js Course** - Geeks For Geeks *(Ongoing)*
-- **Linux Fundamentals** - Self-learned
-- **Git Version Control** - Practical Experience
-- **AWS Cloud Practitioner** - In Progress
+### 📚 Cloud Computing
+- **Basics of Cloud Computing** - Codaming - Simplified Learning, Vedika Singh *(100% Complete)*
+- **Fundamentals of Cloud Computing** - Bhavesh Goswami *(100% Complete)*
+- **Cloud Computing With Amazon Web Services** - Ricky Brar *(In Progress)*
+
+### 📚 Web Development
+- **CSS, Bootstrap, JavaScript, Web Development Course** - PROPER DOT INSTITUTE *(100% Complete)*
+- **Learn PHP and MySQL for Web Application and Web Development** - Marcus Menti, Zechariah Tech *(100% Complete)*
+- **JavaScript Fundamentals for Beginners** - Dev Diva *(100% Complete)*
+- **Java and PHP Complete Course for Java and PHP Beginners** - Crunch Coding Institute *(100% Complete)*
+- **AngularJS Essentials - From Beginner to Advanced Developer** - Learnify IT *(100% Complete)*
+- **React.js for Absolute Beginners: 3D Weather Application** - Tinku Gupta *(17% Complete)*
+
+### 📚 AI & Machine Learning
+- **Automated Machine Learning for Beginners (Google & Apple)** - AIBrain Inc. *(100% Complete)*
+- **Complete Generative AI: Build Pro Web, Mobile & SaaS Apps** - Debayan Dey *(In Progress)*
+
+### 📚 DevOps & Tools
+- **Azure Pipelines/AppService/StaticWebApp/ASPNET Core/Angular** - Ionut Pac-Balaj *(100% Complete)*
+- **Net DevOps: Cisco Python, Automation, NETCONF, SDN, Docker** - David Bombal, Hank Preston *(In Progress)*
 
 </div>
 
